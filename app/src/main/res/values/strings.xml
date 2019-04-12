@@ -1,0 +1,10 @@
+<resources>
+    <string name="hello">Choose from the options to check your environment</string>
+    <string name="app_name">MeteoRwanda</string>
+    <string name="ambient_label">Ambient Temperature</string>
+    <string name="light_label">Light</string>
+    <string name="pressure_label">SENSOR DATA</string>
+    <string name="humidity_label">Relative Humidity</string>
+    <string name="google_maps_API_key">AIzaSyB18lJKGx8bLQIyfpQOzqt9RZNZqm5umIw</string>
+    <string name="text_placeholder">-</string>
+</resources>
